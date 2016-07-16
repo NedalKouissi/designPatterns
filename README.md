@@ -6,3 +6,4 @@ Patterns:
   [Constructor pattern](constructor.js)
   [Module pattern](modulePattern.js)
   [Revealing Module Pattern](revealingModulePattern.js)
+  [Sibleton](singleton.js)
